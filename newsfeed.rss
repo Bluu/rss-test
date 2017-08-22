@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Company Newsfeed</title>
+  <link>https://www.mycompany.com</link>
+  <description>My company news</description>
+  <category>News</category>
+  <language>en-us</language>
+  <copyright>2017 Company. All rights reserved.</copyright>
+  <item>
+    <title>New Branding Manual</title>
+    <author>HEIDELBERG CEMENT HQ</author>
+    <pubDate>03/03/2018 09:22</pubDate>
+    <link>https://www.mycompany.com/blogpost</link>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac lorem eget tellus semper pulvinar. Fusce ac dolor faucibus, tristique nulla ut, imperdiet neque. Aliquam in turpis sit amet libero scelerisque auctor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus lobortis orci at enim consequat, in facilisis mi tempor. Nunc fermentum eros eget tellus volutpat molestie. Suspendisse efficitur odio quis condimentum volutpat. Vivamus eleifend massa eget nunc pellentesque, et condimentum mauris viverra.
+
+Pellentesque hendrerit turpis mi, sed laoreet metus accumsan et. Phasellus maximus est neque, et porta ipsum interdum sit amet. Suspendisse a pellentesque nulla, ac facilisis enim. Vivamus ultrices, lorem interdum luctus interdum, magna ipsum consequat mauris, ac tristique lacus augue ac magna. Phasellus aliquam pretium urna, at placerat lorem. Donec tempor laoreet magna, eget vehicula lorem aliquet a. Sed et turpis rhoncus, sodales tortor quis, maximus urna. Vivamus in velit a lacus fringilla maximus a vel nisi. Praesent lacus nunc, posuere ut maximus euismod, posuere quis tortor. Praesent non placerat magna. Sed condimentum tincidunt lacinia.</description>
+    <enclosure url="http://che.org.il/wp-content/uploads/2016/12/pdf-sample.pdf" length="5000" type="application/pdf" />
+  </item>
+</channel>
+
+</rss>
