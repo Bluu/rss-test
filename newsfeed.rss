@@ -13,7 +13,7 @@
   <atom:link href="https://www.mycompany.com/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <guid isPermaLink="false">1</guid>
-    <title>Training Manual</title>
+    <title>Self Defense Manual</title>
     <author>batman@batimail.com (BATMAN)</author>
     <atom:logo>http://cdn.dribbble.com/users/373338/screenshots/2558656/batman_avatar_dribbbb_1x.png</atom:logo>
     <pubDate>Wed, 02 Oct 2002 15:00:00 +0200</pubDate>
