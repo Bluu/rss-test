@@ -8,6 +8,7 @@
   <language>en-us</language>
   <copyright>2017 Company. All rights reserved.</copyright>
   <item>
+    <guid>1</guid>
     <title>New Branding Manual</title>
     <author>HEIDELBERG CEMENT HQ</author>
     <pubDate>Wed, 02 Oct 2002 08:00:00 EST</pubDate>
@@ -20,6 +21,7 @@ Pellentesque hendrerit turpis mi, sed laoreet metus accumsan et. Phasellus maxim
     <enclosure url="http://che.org.il/wp-content/uploads/2016/12/pdf-sample.pdf" length="5000" type="application/pdf" />
   </item>
   <item>
+    <guid>2</guid>
     <title>New Branding Manual</title>
     <author>HEIDELBERG CEMENT HQ</author>
     <pubDate>Wed, 02 Oct 2002 08:00:00 EST</pubDate>
@@ -31,6 +33,7 @@ Nullam semper nulla vel sapien luctus ullamcorper. In eleifend semper lacus, id 
     <category>Information</category>
   </item>
   <item>
+    <guid>3</guid>
     <title>New Branding Manual</title>
     <author>HEIDELBERG CEMENT HQ</author>
     <pubDate>Wed, 02 Oct 2002 08:00:00 EST</pubDate>
@@ -40,6 +43,7 @@ Nullam semper nulla vel sapien luctus ullamcorper. In eleifend semper lacus, id 
     <category>Business</category>
   </item>
   <item>
+    <guid>4</guid>
     <title>New Branding Manual</title>
     <author>HEIDELBERG CEMENT HQ</author>
     <pubDate>Wed, 02 Oct 2002 08:00:00 EST</pubDate>
