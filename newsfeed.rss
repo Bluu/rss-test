@@ -38,7 +38,7 @@ Nullam semper nulla vel sapien luctus ullamcorper. In eleifend semper lacus, id 
     <category>News</category>
     <category>Information</category>
     <atom:logo>http://vignette3.wikia.nocookie.net/dccu/images/b/b4/Wayne_Enterprises_logo.jpg/revision/latest?cb=20130824055313</atom:logo>
-    <media:thumbnail url='http://www.dominickamp.de/wp-content/uploads/2013/11/03425_windowtogothamcity_2560x1600-940x588.jpg' />
+    <media:content url='http://www.dominickamp.de/wp-content/uploads/2013/11/03425_windowtogothamcity_2560x1600-940x588.jpg' medium="image" />
   </item>
   <item>
     <guid isPermaLink="false">3</guid>
@@ -50,7 +50,7 @@ Nullam semper nulla vel sapien luctus ullamcorper. In eleifend semper lacus, id 
     <category>News</category>
     <category>Business</category>
     <atom:logo>http://vignette3.wikia.nocookie.net/dccu/images/b/b4/Wayne_Enterprises_logo.jpg/revision/latest?cb=20130824055313</atom:logo>
-    <media:thumbnail url='http://static.comicvine.com/uploads/original/3/39027/3303545-071612_1733_theceowayne1.jpg' />
+    <media:content url='http://static.comicvine.com/uploads/original/3/39027/3303545-071612_1733_theceowayne1.jpg' medium="image" />
   </item>
   <item>
     <guid isPermaLink="false">4</guid>
