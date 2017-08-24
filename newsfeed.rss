@@ -2,6 +2,7 @@
 <rss 
   version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:media="http://search.yahoo.com/mrss/"
 >
 
 <channel>
@@ -15,7 +16,6 @@
     <guid isPermaLink="false">1</guid>
     <title>Self Defense Manual</title>
     <author>batman@batimail.com (BATMAN)</author>
-    <atom:logo>http://cdn.dribbble.com/users/373338/screenshots/2558656/batman_avatar_dribbbb_1x.png</atom:logo>
     <pubDate>Wed, 02 Oct 2002 15:00:00 +0200</pubDate>
     <link>https://www.mycompany.com/blogpost</link>
     <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac lorem eget tellus semper pulvinar. Fusce ac dolor faucibus, tristique nulla ut, imperdiet neque. Aliquam in turpis sit amet libero scelerisque auctor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus lobortis orci at enim consequat, in facilisis mi tempor. Nunc fermentum eros eget tellus volutpat molestie. Suspendisse efficitur odio quis condimentum volutpat. Vivamus eleifend massa eget nunc pellentesque, et condimentum mauris viverra.
@@ -24,12 +24,12 @@ Pellentesque hendrerit turpis mi, sed laoreet metus accumsan et. Phasellus maxim
     <category>News</category>
     <category>Tutorial</category>
     <enclosure url="http://che.org.il/wp-content/uploads/2016/12/pdf-sample.pdf" length="5000" type="application/pdf" />
+    <atom:logo>http://cdn.dribbble.com/users/373338/screenshots/2558656/batman_avatar_dribbbb_1x.png</atom:logo>
   </item>
   <item>
     <guid isPermaLink="false">2</guid>
     <title>Wayne Tower Fire Drill</title>
     <author>waynesupport@waynecorp.bat (WAYNE ENTERPRISES)</author>
-    <atom:logo>http://vignette3.wikia.nocookie.net/dccu/images/b/b4/Wayne_Enterprises_logo.jpg/revision/latest?cb=20130824055313</atom:logo>
     <pubDate>Wed, 02 Oct 2002 15:00:00 +0200</pubDate>
     <link>https://www.mycompany.com/blogpost</link>
     <description>Etiam placerat, erat sed iaculis sagittis, nisi mauris egestas nisl, elementum ullamcorper nibh urna in odio. Proin odio elit, ultricies in mauris ut, accumsan semper urna. Sed condimentum lectus eros, ac aliquam purus porta vel. Nam bibendum facilisis odio in convallis. Aenean tempus lacus facilisis congue ultricies. Vivamus a nisi velit. Integer magna sem, cursus at ante sed, faucibus rutrum odio. Duis dolor turpis, faucibus et libero eget, rhoncus lobortis arcu. Morbi erat lectus, ultricies quis risus eu, pharetra dignissim erat. Aenean suscipit ligula elit, sed mollis elit pulvinar sit amet.
@@ -37,23 +37,25 @@ Pellentesque hendrerit turpis mi, sed laoreet metus accumsan et. Phasellus maxim
 Nullam semper nulla vel sapien luctus ullamcorper. In eleifend semper lacus, id imperdiet diam maximus ac. Integer hendrerit diam ligula, id lacinia dui venenatis in. Mauris nec porta nisl. Aliquam vitae blandit ex, ut luctus enim. Sed auctor magna vel erat placerat tempor. Donec nec libero eros. Aenean egestas maximus molestie. Quisque nec laoreet tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis turpis libero. Maecenas vulputate aliquam enim, et consequat erat euismod sed. Integer nulla leo, convallis non imperdiet sit amet, efficitur a nibh.</description>
     <category>News</category>
     <category>Information</category>
+    <atom:logo>http://vignette3.wikia.nocookie.net/dccu/images/b/b4/Wayne_Enterprises_logo.jpg/revision/latest?cb=20130824055313</atom:logo>
+    <media:thumbnail url='http://www.dominickamp.de/wp-content/uploads/2013/11/03425_windowtogothamcity_2560x1600-940x588.jpg' />
   </item>
   <item>
     <guid isPermaLink="false">3</guid>
     <title>Wayne Biotech Research</title>
     <author>waynesupport@waynecorp.bat (WAYNE ENTERPRISES)</author>
-    <atom:logo>http://vignette3.wikia.nocookie.net/dccu/images/b/b4/Wayne_Enterprises_logo.jpg/revision/latest?cb=20130824055313</atom:logo>
     <pubDate>Wed, 02 Oct 2002 15:00:00 +0200</pubDate>
     <link>https://www.mycompany.com/blogpost</link>
     <description>Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed facilisis ex lorem, quis aliquam quam porttitor ac. Nam id eleifend urna. Integer quis lacinia neque. Aliquam in neque sed orci egestas ullamcorper. Nunc et orci id enim ornare gravida at eget mauris. Nam justo lectus, malesuada vel interdum finibus, semper et sapien. Maecenas eget quam orci. Donec ac tempus ipsum, eget consequat orci. Etiam posuere sit amet ligula id ornare. Sed et auctor lacus. Quisque massa nisi, mollis a tristique at, commodo viverra neque. Integer porttitor malesuada metus, vel lacinia eros luctus sed. Proin egestas pulvinar finibus. Etiam non magna lacinia, feugiat massa non, interdum dui.</description>
     <category>News</category>
     <category>Business</category>
+    <atom:logo>http://vignette3.wikia.nocookie.net/dccu/images/b/b4/Wayne_Enterprises_logo.jpg/revision/latest?cb=20130824055313</atom:logo>
+    <media:thumbnail url='http://static.comicvine.com/uploads/original/3/39027/3303545-071612_1733_theceowayne1.jpg' />
   </item>
   <item>
     <guid isPermaLink="false">4</guid>
     <title>Wayne Security Manual</title>
     <author>waynesupport@waynecorp.bat (WAYNE ENTERPRISES)</author>
-    <atom:logo>http://vignette3.wikia.nocookie.net/dccu/images/b/b4/Wayne_Enterprises_logo.jpg/revision/latest?cb=20130824055313</atom:logo>
     <pubDate>Wed, 02 Oct 2002 15:00:00 +0200</pubDate>
     <link>https://www.mycompany.com/blogpost</link>
     <description>nteger id leo ac nulla convallis vulputate eget et felis. Integer odio risus, ornare sed dui ac, bibendum semper sapien. Ut sapien massa, fermentum eu diam ut, scelerisque pharetra dolor. Maecenas tincidunt, tortor at condimentum condimentum, nisi risus porttitor risus, sit amet tincidunt risus dolor nec urna. Aliquam gravida metus eget lacus consectetur condimentum. Nulla porta mollis lacus, vel molestie felis vulputate eu. Aliquam finibus, nunc id tincidunt egestas, urna nisi ultrices felis, et ornare felis sapien vel est. Vestibulum id porttitor odio. Nam eget gravida quam. Vivamus eleifend massa quis pretium luctus. Proin rutrum molestie posuere.
@@ -66,6 +68,7 @@ Nunc pretium id orci eu luctus. Praesent vulputate, diam et convallis varius, fe
     <enclosure url="http://www.planwallpaper.com/static/images/Eiffel-Tower-lanscape-Wallpaper-HD.jpg" length="5000" type="image/jpeg" />
     <enclosure url="http://www.iiswc.org/iiswc2009/sample.doc" length="5000" type="application/msword" />
     <enclosure url="http://che.org.il/wp-content/uploads/2016/12/pdf-sample.pdf" length="5000" type="application/pdf" />
+    <atom:logo>http://vignette3.wikia.nocookie.net/dccu/images/b/b4/Wayne_Enterprises_logo.jpg/revision/latest?cb=20130824055313</atom:logo>
   </item>
 </channel>
 
