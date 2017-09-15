@@ -22,3 +22,5 @@ text/plain
 image/png
 image/jpeg
 image/gif
+
+German Cuamea
